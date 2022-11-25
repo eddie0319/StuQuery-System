@@ -1,9 +1,0 @@
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\bin\Debug\学生信息查询系统.exe
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\bin\Debug\学生信息查询系统.pdb
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.csproj.AssemblyReference.cache
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.frm.resources
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.Properties.Resources.resources
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.csproj.GenerateResource.cache
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.csproj.CoreCompileInputs.cache
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.exe
-C:\Users\20932\Desktop\学生信息查询系统\学生信息查询系统\obj\x86\Debug\学生信息查询系统.pdb
